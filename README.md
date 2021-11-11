@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Villsty
 - 👀 I’m interested in learning Swift, C++ and Python
-- 🌱 I’m currently learning SwiftUI
-- 💞️ I’m looking to collaborate on making iOS apps.
+- 🌱 I’m currently learning SwiftUI and Python
+- 💞️ I’m looking to collaborate on making iOS apps
 - 📫 How to reach me: DM
 
 <!---
