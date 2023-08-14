@@ -1,2 +1,3 @@
-Aspiring software developer.
-Currently learning Google Cloud, MySQL and iOS development with Swift UI.
+- Aspiring software developer.
+
+- Current technologies: Google Cloud, Apache server, Swift UI, MySQL, PostgresQL, JavaScript, node.js, php, Python and Rust.
