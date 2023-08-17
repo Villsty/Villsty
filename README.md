@@ -1,3 +1,17 @@
-- Aspiring software developer.
+Aspiring fullstack indie software developer.
 
-- Current technologies: Google Cloud, Apache server, Swift UI, MySQL, PostgresQL, JavaScript, node.js, php, Python and Rust.
+Current technologies:
+- Google Cloud
+- Apache server
+- Nginx server
+- Swift UI
+- MySQL
+- PostgresQL
+- html
+- css
+- JavaScript
+- Typescript
+- node.js
+- php
+- Python
+- Rust
