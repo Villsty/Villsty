@@ -1,4 +1,4 @@
-Aspiring fullstack indie software developer.
+Aspiring fullstack indie software developer. Currently student in data technology at University of Bergen, Norway.
 
 Current technologies:
 - Google Cloud
