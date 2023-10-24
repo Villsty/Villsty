@@ -7,10 +7,12 @@ Current technologies:
 - Swift UI
 - MySQL
 - PostgresQL
-- html
-- css
+- HTML
+- CSS
 - JavaScript
 - Typescript
+- React
+- Next.js
 - node.js
 - php
 - Python
