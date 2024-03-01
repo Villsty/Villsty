@@ -3,6 +3,7 @@ Aspiring fullstack indie software developer. Currently student in data technolog
 Current technologies:
 
 
+- Java
 - HTML
 - CSS
 - JavaScript
