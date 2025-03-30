@@ -1,9 +1,11 @@
 Aspiring fullstack indie software developer. 
 Currently student in data technology at University of Bergen, Norway.
 
-Current technologies:
+Current technologies and frameworks:
 
 - Next.js
+- Supabase
+- Vercel
 - React
 - PostgresQL
 - Java
@@ -11,7 +13,4 @@ Current technologies:
 - Python
 - Swift UI
 - Google Cloud
-- Apache server
-- Nginx server
-- php
-- Rust
+
